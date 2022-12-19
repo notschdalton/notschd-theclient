@@ -1,0 +1,28 @@
+body{background-color: #8B5959}
+body{color: #F8E8CE}
+body{font-family: 'Courier New', Courier, monospace;}
+body{margin: 0rem;}
+header{background-color: #CD8484;}
+header{padding: 2rem;}
+header a{color: #F8E8CE}
+header{text-align: center;}
+header img{
+    width: 7%;
+}
+main{padding: 4rem;}
+.home-content div{display: inline-block}
+.home-content div{width: 60%;}
+.home-content img{width: 38%;}
+.home-content img{vertical-align: top;}
+.cozy{
+    background-color: #624E4E
+}
+.cozy{padding: 2rem;}
+.cozy{display:inline-block}
+.cozy{vertical-align: top;}
+.cozy{
+    text-align: center;
+    background-position: center;
+}
+img{max-width: 100%;}
+.cozy{width: 29%;}
